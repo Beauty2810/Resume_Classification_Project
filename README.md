@@ -1,4 +1,4 @@
-# Resume_Classification_Project
+# Resume Classification Project
 The goal of this project was to come up with a classification model which will predict the category of the resume. Given a resume in PDF, DOC or DOCX format, our model
 extracts any form of text from the pdf or doc or docx using TIKA Library. This text was cleaned by by transformation to a better encoding scheme, removal of punctuation marks, stop words, and everything was reduced to lower case to avoid redundancy. Following the rigorous cleaning, the text was passed to our model for classification, which accurately predicts the category of resume. The overall output of our model would be the class of the input resume.
 
