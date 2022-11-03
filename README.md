@@ -7,3 +7,7 @@ For the process of classification, a range of models were tried out ranging from
 # Dataset
 The dataset consists of 79 resumes having different formats such as pdf, doc, docx. The resumes are labelled according to the primary category/class that a particular resume belongs to, in a csv format. We will be using this csv formatted resume dataset to train our model for classification. Our model should then be able to work on any unseen resume.
 
+# Algorithm Flow Chart
+
+<img width="377" alt="Screenshot 2022-11-03 163543" src="https://user-images.githubusercontent.com/108981162/199705438-bf16f8e4-8b12-4df4-b03a-0eab8bf2122e.png">
+
